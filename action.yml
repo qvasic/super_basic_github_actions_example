@@ -1,0 +1,5 @@
+name: 'super_basic_github_actions_example'
+description: 'Just an example.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
